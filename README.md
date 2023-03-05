@@ -5,6 +5,7 @@ A good starting point for a new Rust project
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
 
+Happ number judgment.
 
 This program checks whether a given number is a happy number or not. A happy number is a number which eventually reaches 1 when replaced by the sum 
 of the square of each digit.
